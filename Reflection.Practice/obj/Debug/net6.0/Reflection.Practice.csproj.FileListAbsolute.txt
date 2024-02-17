@@ -1,0 +1,15 @@
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Reflection.Practice/Reflection.Practice/bin/Debug/net6.0/Reflection.Practice
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Reflection.Practice/Reflection.Practice/bin/Debug/net6.0/Reflection.Practice.deps.json
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Reflection.Practice/Reflection.Practice/bin/Debug/net6.0/Reflection.Practice.runtimeconfig.json
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Reflection.Practice/Reflection.Practice/bin/Debug/net6.0/Reflection.Practice.dll
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Reflection.Practice/Reflection.Practice/bin/Debug/net6.0/Reflection.Practice.pdb
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Reflection.Practice/Reflection.Practice/obj/Debug/net6.0/Reflection.Practice.csproj.AssemblyReference.cache
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Reflection.Practice/Reflection.Practice/obj/Debug/net6.0/Reflection.Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Reflection.Practice/Reflection.Practice/obj/Debug/net6.0/Reflection.Practice.AssemblyInfoInputs.cache
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Reflection.Practice/Reflection.Practice/obj/Debug/net6.0/Reflection.Practice.AssemblyInfo.cs
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Reflection.Practice/Reflection.Practice/obj/Debug/net6.0/Reflection.Practice.csproj.CoreCompileInputs.cache
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Reflection.Practice/Reflection.Practice/obj/Debug/net6.0/Reflection.Practice.dll
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Reflection.Practice/Reflection.Practice/obj/Debug/net6.0/refint/Reflection.Practice.dll
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Reflection.Practice/Reflection.Practice/obj/Debug/net6.0/Reflection.Practice.pdb
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Reflection.Practice/Reflection.Practice/obj/Debug/net6.0/Reflection.Practice.genruntimeconfig.cache
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Reflection.Practice/Reflection.Practice/obj/Debug/net6.0/ref/Reflection.Practice.dll

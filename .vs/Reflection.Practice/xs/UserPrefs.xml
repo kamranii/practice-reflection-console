@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{0C06469C-2F29-46D2-9FDD-6A13C2308199}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Reflection.Practice/Program.cs">
+    <Files>
+      <File FileName="Reflection.Practice/Program.cs" Line="74" Column="1" />
+      <File FileName="Reflection.Practice/myTestClass.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Reflection.Practice" expanded="True">
+            <Node name="Reflection.Practice" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Reflection.Practice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Reflection.Practice/Reflection.Practice/Program.cs" relfile="Reflection.Practice/Program.cs" line="60" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
